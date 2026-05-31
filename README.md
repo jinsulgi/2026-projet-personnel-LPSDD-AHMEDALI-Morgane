@@ -7,10 +7,12 @@
 - `data_analysis_kpop_lyrics.ipynb` — Analyse linguistique (CS_ratio, TTR)
 
 ## Données
-Le dataset source (5M chansons, attention il fait 8 GO) est disponible : 
-    - sur Kaggle : https://www.kaggle.com/datasets/carlosgdcj/genius-song-lyrics-with-language-information
-    - ici : https://drive.google.com/file/d/1Kp8G4TtzjFh6WIZXH_uxlI72MuiN7kYZ/view?usp=sharing
+Le dataset source (5M chansons, attention il fait 8 GO) est disponible :
+- sur Kaggle : https://www.kaggle.com/datasets/carlosgdcj/genius-song-lyrics-with-language-information
+- ici : https://drive.google.com/file/d/1Kp8G4TtzjFh6WIZXH_uxlI72MuiN7kYZ/view?usp=sharing
 
+Le dataset prétraité `kpop_dataset_clean.csv` (~30 000 chansons) est disponible ici :
+- [kpop_dataset_clean.csv](https://drive.google.com/file/d/1NdEsXzYwrrnQRAJwXTLjJORaoxbJklvc/view?usp=sharing)
 Le dataset prétraité `kpop_dataset_clean.csv` (~30 000 chansons) est disponible ici :
 [kpop_dataset_clean.csv] : https://drive.google.com/file/d/1NdEsXzYwrrnQRAJwXTLjJORaoxbJklvc/view?usp=sharing
 
